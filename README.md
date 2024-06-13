@@ -7,7 +7,3 @@ This project is a simple user information management system that allows users to
 - Retrieve user information by ID.
 - Persist data between sessions using a file.
 
-## How to Compile and Run
-```bash
-g++ main.cpp -o user_info_system
-./user_info_system
